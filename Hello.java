@@ -2,6 +2,6 @@
 
 class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello, suma irritating fellow"); 
+        System.out.println("Miss pulihors, going to misses pulka"); 
     }
 }
